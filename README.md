@@ -35,6 +35,7 @@ Conventions used in this model.
 =========================================================================================
 Solution overview:
 
-![image](https://user-images.githubusercontent.com/37015468/140001053-632fbc15-750a-4f7c-b163-be8e6aa0cb7d.png)
+![image](https://user-images.githubusercontent.com/37015468/140009527-1b12399b-d178-4760-98ef-217c9ee354ed.png)
+
 
 
