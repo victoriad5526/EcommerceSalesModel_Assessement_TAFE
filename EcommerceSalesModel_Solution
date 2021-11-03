@@ -1,6 +1,7 @@
-CREATE TABLE `member` (
-  `memberID` int NOT NULL,
-  `memFirstName` varchar(45) DEFAULT NULL,
-  `mamLastname` varchar(45) DEFAULT NULL,
+CREATE TABLE `test`.`member` (
+  `memberID` INT NOT NULL,
+  `memFirstName` VARCHAR(45) NULL,
+  `memLastName` VARCHAR(45) NULL,
+  `memEmail` VARCHAR(45) NULL,
+  `memStartDate` DATE NULL,
   PRIMARY KEY (`memberID`));
-  
