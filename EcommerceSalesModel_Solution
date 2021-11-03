@@ -1,7 +1,7 @@
-CREATE TABLE `test`.`member` (
+CREATE TABLE `new_schema`.`member` (
   `memberID` INT NOT NULL,
   `memFirstName` VARCHAR(45) NULL,
   `memLastName` VARCHAR(45) NULL,
   `memEmail` VARCHAR(45) NULL,
   `memStartDate` DATE NULL,
-  PRIMARY KEY (`memberID`));
+  PRIMARY KEY (`memberID`));member
