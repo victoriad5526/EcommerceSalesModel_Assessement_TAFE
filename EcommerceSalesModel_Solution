@@ -1,4 +1,4 @@
-CREATE TABLE `new_schema`.`member` (
+CREATE TABLE `hellodb2`.`member` (
   `memberID` INT NOT NULL,
   `memFirstName` VARCHAR(45) NULL,
   `memLastName` VARCHAR(45) NULL,
