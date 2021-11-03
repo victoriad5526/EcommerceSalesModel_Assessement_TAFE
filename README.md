@@ -37,11 +37,4 @@ Solution overview:
 
 ![image](https://user-images.githubusercontent.com/37015468/140001053-632fbc15-750a-4f7c-b163-be8e6aa0cb7d.png)
 
-![image](https://user-images.githubusercontent.com/37015468/140001887-898308df-02b1-4052-8326-acede8c7b291.png)
-
-
-![image](https://user-images.githubusercontent.com/37015468/140001678-6c032891-f583-4e46-868c-1e53167c4204.png)
-
-
-![image](https://user-images.githubusercontent.com/37015468/140002548-8f48daf7-2cb2-488d-8250-c6e9c770576d.png)
 
