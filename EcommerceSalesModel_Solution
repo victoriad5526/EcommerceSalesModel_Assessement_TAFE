@@ -1,0 +1,6 @@
+CREATE TABLE `member` (
+  `memberID` int NOT NULL,
+  `memFirstName` varchar(45) DEFAULT NULL,
+  `mamLastname` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`memberID`));
+  
