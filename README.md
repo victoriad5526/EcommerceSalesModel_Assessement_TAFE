@@ -32,6 +32,11 @@ Conventions used in this model.
 •	The primary key is the entity name with ID appended, except again, in the case of Order.
 •	Each attribute takes a three letter code as a prefix to represent the entity to which it belongs, to avoid ambiguity of attribute names. This is often the first 3 letter of the table name, provided this is unique to the database.
 
+=========================================================================================
+Solution overview:
+
+![image](https://user-images.githubusercontent.com/37015468/140001053-632fbc15-750a-4f7c-b163-be8e6aa0cb7d.png)
+
 
 
 
