@@ -1,7 +1,7 @@
 # EcommerceSalesModel_Assessement_TAFE
 Create a Database 
 
-You have been employed as a contract database developer for an e-commerce website.  The site requires a new database backend to manage the purchase of the products available in their listings.  The store owner had a consultant commence the project and he completed a high level design before moving and leaving the owner with the limited documentation below.
+Scenario: You have been employed as a contract database developer for an e-commerce website.  The site requires a new database backend to manage the purchase of the products available in their listings.  The store owner had a consultant commence the project and he completed a high level design before moving and leaving the owner with the limited documentation below.
 The database produced must meet the requirements specified in the following documentation and the final design must be agreed between the database user and the database designer prior to physical creation.
 Requirements
 Entities required include:
